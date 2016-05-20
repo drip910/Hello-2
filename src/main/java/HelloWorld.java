@@ -7,6 +7,5 @@ public class HelloWorld {
         System.out.println("hihi");
         System.out.println("hihi");
         System.out.println("hihcci");
-
     }
 }
